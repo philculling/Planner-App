@@ -8,7 +8,7 @@
   }
 
   function setItems() {
-    //to be completed
+    localStorage.setItem("userEntry9am", text9amEl.val());
   }
 
   var clickableEl = $(".clickable");
@@ -17,13 +17,7 @@
 
   clickableEl.on('click', function() {
     console.log("Test");
+    console.log("This should show the diary entry put in for 9 a.m. ", text9amEl.val());
     setItems();
     //complete rest later, though that may actually be it?
   });
-
-  console.log("This should show the diary entry put in for 9 a.m. ", text9amEl.val());
-
-/*
-  This console log is not testable until you finish 
-  writing the function at line 18
-  */

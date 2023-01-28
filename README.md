@@ -1,13 +1,13 @@
 # Planner-App
 Week 7 Challenge
 
-Add the time to the header, there's an id of currentDay you can already use:
-- create variable that targets id currentDay
-- add text content to that variable that is current day - see Thursday activity 5 or 6.
-- no need to append, it already exists?
-This is about the only thing I feel vaguely confident about, and I'm not even sure about that!
-
-Add a table with 3 columns and 9 rows? Use the link Laura sent you to use Bootstrap grids (think week 3). Do this first as it's what you're most likely to need help with!
+Why not working?
+Possibilities:
+- Is jQuery linked? Write the simplest possible jQuery command to test it.
+- Failing that, check the lesson moment again in case you're doign something wrong.
+Check documentation on how to present in format Saturday January 28th
+Complete inner part of your moment thing
+Once done, commit.
 
 Add simple text to the LH columns for the hours.
 Add a data-attribute to each ROW which tells you the hour the row represents. You can do this directly in the html.
@@ -25,3 +25,7 @@ Then work out a way, probably using an if statement, of making past hours grey, 
 But how do we link that with simple text?
 
 Persist events between renders of a page? Make sure that on refresh, it doesn't completely refresh but retrieves from local storage. Refer to week 6 day 3.
+
+READ ME
+
+Further styling of the diary entry table. Can it look nicer with borders, etc.?

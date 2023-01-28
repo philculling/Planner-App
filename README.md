@@ -1,12 +1,8 @@
 # Planner-App
 Week 7 Challenge
 
-Add a data-attribute to each ROW which tells you the hour the row represents. Laura says you can do this directly in the html. Alexandra Ortiz's article shows how to do this.
 Commit.
-Lunch plan.
-
-Make the middle columns something you can input into, probably using textareas.
-Lunch may need to happen in the middle of trying this!
+Lunch?
 
 Add "Save", or an image as in the demo, to the RH columns.
 TCS piece 2.

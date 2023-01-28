@@ -1,12 +1,6 @@
 # Planner-App
 Week 7 Challenge
 
-Why not working?
-Possibilities:
-- Is jQuery linked? Write the simplest possible jQuery command to test it.
-- Failing that, check the lesson moment again in case you're doign something wrong.
-Check documentation on how to present in format Saturday January 28th
-Complete inner part of your moment thing
 Once done, commit.
 
 Add simple text to the LH columns for the hours.

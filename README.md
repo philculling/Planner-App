@@ -7,13 +7,7 @@ Week 7. 2 hard bits to go, which you can intermingle with 4 easy things: adding 
 5 Tutor meeting.
 Monday evening: speak to Rebecca.
 
-commit
-Once getItems is done:
-Repeat the above to have 9 ids for all 9 user inputs.
-Have 9 variables to target all 9 user inputs.
-Update the functions as appropriate.
-commit
-
+Check on Bec
 TCS piece 3.
 
 Read through the documentation Anthony sent, specifically on get hour (I think).
@@ -21,6 +15,8 @@ Work out how to link the real time to the rows. You have given the rows dataset 
 Work out a way, possibly, but not definitely, using an if statement, of making past hours grey, current hour red and future hours green.
 
 READ ME screenshot.
+
+Get rid of "will be emptied for user" from the html.
 
 As time allows:
 Further styling of the diary entry table. Can it look nicer with borders, etc.?

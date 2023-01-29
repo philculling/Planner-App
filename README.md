@@ -6,18 +6,23 @@ Week 7 Challenge
 5 Tutor meeting.
 Monday evening: speak to Rebecca.
 
-Find a previous activity, ideally a demonstrator one, that uses data attributes to manipulate code.
-Work out how to link the real time to the rows. You have given the rows dataset values, so you could use these.
+Commit
 
-Get rid of "will be emptied for user" from the html.
+Your notes have kind of switched to being in the script from here.
+Work through them slowly.
+3. How to change something by targeting its data attribute, or do I mean dataset values?! I mean... you could try changing something really simple just to check you know what you're doing, then undo it or comment it out. setAttribute or the jQuery equivalent MIGHT be helpful here, but I'm not sure.
 
-Work out a way, possibly, but not definitely, using an if statement, of making past hours grey, current hour red and future hours green.
+Give yourself an easy thing to do break by updating the actual text content within the diary!
+
+4. How to create a relationship between the current hour and the data attributes so that you're working with the correct things.
+5. Make past hours grey, current hour red, future hours green.
+6. While you're playing with the styling, why not make them look nicer by making them boxes if you can?
 
 As time allows:
 Further styling of the diary entry table. Can it look nicer with borders, etc.?
 If you've set up the data attributes correctly, you can target them in the CSS.
 
-Add some sort of hover effect on the save area so that it will be clearer for the user when they have saved.
+Add some sort of hover effect on the save area so that it will be clearer for the user when they have saved. Or change them to buttons, but if so you'll have to change EVERYWHERE where they were referenced!
 
 REAL README STARTS HERE:
 

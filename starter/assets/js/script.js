@@ -57,3 +57,22 @@
   });
 
   getItems();
+
+  //Tests with moment.js
+  moment().hour(Number);
+  moment().hour();
+  console.log(moment().hour());
+  
+  moment().hours(Number);
+  moment().hours();
+  console.log(moment().hours());
+  //want to check difference between hour and hours
+  //might become clear after 1 pm!
+ //test code
+ if (moment().hour() === 10) {
+  console.log("I can use this now")
+ }
+ if (moment().hour() < 11) {
+  console.log("Now I need to work out how to link this to the data attributes")
+ }
+ 

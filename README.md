@@ -1,22 +1,17 @@
 # Planner-App
 Week 7 Challenge
 
-Week 7. 2 hard bits to go, which you can intermingle with 4 easy things: adding README screenshot and TCS piece 3.
 1:30 LFC. but continue coding.
-3:30 - 5 Back to week 6.
+3:30 - 5 Back to week 6?
 5 Tutor meeting.
 Monday evening: speak to Rebecca.
 
-Check on Bec
-TCS piece 3.
-
-Read through the documentation Anthony sent, specifically on get hour (I think).
+Find a previous activity, ideally a demonstrator one, that uses data attributes to manipulate code.
 Work out how to link the real time to the rows. You have given the rows dataset values, so you could use these.
-Work out a way, possibly, but not definitely, using an if statement, of making past hours grey, current hour red and future hours green.
-
-READ ME screenshot.
 
 Get rid of "will be emptied for user" from the html.
+
+Work out a way, possibly, but not definitely, using an if statement, of making past hours grey, current hour red and future hours green.
 
 As time allows:
 Further styling of the diary entry table. Can it look nicer with borders, etc.?
@@ -45,7 +40,7 @@ When the website is viewed, the user can see today's date, space to commit diary
 Site is published at https://philculling.github.io/Planner-App
 
 Screenshot:
-![Screenshot](./starter/assets/Screenshot.png "Screenshot of Planner-App in progress")
+![Screenshot](./starter/assets/screenshot.png "Screenshot of Planner-App in progress")
 
 ## Credits
 Some help was provided by AskBCS Assistant.

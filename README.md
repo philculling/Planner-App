@@ -1,28 +1,20 @@
 # Planner-App
 Week 7 Challenge
 
-1:30 LFC. but continue coding.
-3:30 - 5 Back to week 6?
+3:30 - 5 Back to week 6.
 5 Tutor meeting.
 Monday evening: speak to Rebecca.
 
-Commit
-
 Your notes have kind of switched to being in the script from here.
 Work through them slowly.
-3. How to change something by targeting its data attribute, or do I mean dataset values?! I mean... you could try changing something really simple just to check you know what you're doing, then undo it or comment it out. setAttribute or the jQuery equivalent MIGHT be helpful here, but I'm not sure.
-
-Give yourself an easy thing to do break by updating the actual text content within the diary!
-
-4. How to create a relationship between the current hour and the data attributes so that you're working with the correct things.
-5. Make past hours grey, current hour red, future hours green.
-6. While you're playing with the styling, why not make them look nicer by making them boxes if you can?
 
 As time allows:
 Further styling of the diary entry table. Can it look nicer with borders, etc.?
 If you've set up the data attributes correctly, you can target them in the CSS.
 
-Add some sort of hover effect on the save area so that it will be clearer for the user when they have saved. Or change them to buttons, but if so you'll have to change EVERYWHERE where they were referenced!
+Update the text boxes to be something sensible before handing in.
+
+Add some sort of hover effect on the save area so that it will be clearer for the user when they have saved.
 
 REAL README STARTS HERE:
 

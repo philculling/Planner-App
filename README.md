@@ -1,10 +1,6 @@
 # Planner-App
 Week 7 Challenge
 
-3:30 - 5 Back to week 6.
-5 Tutor meeting.
-Monday evening: speak to Rebecca.
-
 Your notes have kind of switched to being in the script from here.
 Work through them slowly.
 

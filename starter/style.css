@@ -4,6 +4,10 @@ body {
   line-height: 1;
 }
 
+.green {
+  background-color: #77dd77;
+}
+
 textarea {
   background: transparent;
   border: none;

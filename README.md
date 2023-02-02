@@ -1,19 +1,6 @@
 # Planner-App
 Week 7 Challenge
 
-Your notes have kind of switched to being in the script from here.
-Work through them slowly.
-
-As time allows:
-Further styling of the diary entry table. Can it look nicer with borders, etc.?
-If you've set up the data attributes correctly, you can target them in the CSS.
-
-Update the text boxes to be something sensible before handing in.
-
-Add some sort of hover effect on the save area so that it will be clearer for the user when they have saved.
-
-REAL README STARTS HERE:
-
 Further practice with JavaScript
 ## Description
 I wanted to create a daily planner that could be used for managing time effectively.

@@ -51,6 +51,7 @@
     }
 
   clickableEl.on('click', function() {
+    //Some test code is in here
     console.log("Test");
     console.log("This should show the diary entry put in for 9 a.m. ", text9amEl.val());
     setItems();
@@ -66,8 +67,7 @@
   moment().hours(Number);
   moment().hours();
   console.log(moment().hours());
-  console.log(JSON.parse(moment().hour()));//hoping this is right syntax?
-  //All, including the JSON one, return 24 hour clock which is helpful.
+
  //test code
  if (moment().hour() === 10) {
   console.log("I can use this now")
@@ -81,7 +81,7 @@
 .children('div')
 .children('textarea')
 .css('border-radius', '.4rem')
-.css('margin', '20px');//that was a test, you will probably want to change it
+.css('margin', '20px');
 
 $(".row").each(function(){
   var currentHour = parseInt(moment().hour());
@@ -97,18 +97,3 @@ $(".row").each(function(){
     $(this).addClass("past");
   }
 })
-
-  /*
-  Commit
-  Change content left in the boxes
-  Tidy any notes you have in here
-  Check html
-  Check css
-  Check Readme
-  Move everything out of starter
-  Switch to a different list because you're about to push
-  Commit
-  Push
-
-
-  */ 

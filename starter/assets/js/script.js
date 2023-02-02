@@ -83,36 +83,32 @@
 .css('border-radius', '.4rem')
 .css('margin', '20px');//that was a test, you will probably want to change it
 
-var targetDivs = $('#container').children('div');//not sure here but I think it's ok
-for (i = 0; i < targetDivs.length; i++) {
-  var state = ("data-hour", targetDivs[i]);//not sure here, as...
-  console.log(state);//returning too much, not quite targeted correctly
-  if (state === JSON.parse(moment().hour())) { //check syntax with Matthew
-    $("#container").children[i].addClass("present");
+$(".row").each(function(){
+  var currentHour = parseInt(moment().hour());
+  var rowHour = parseInt($(this).attr("data-hour"));
+  console.log(rowHour);
+  if (rowHour === currentHour) {
+    $(this).addClass("present");
   }
-  if (state < JSON.parse(moment().hour())) {
-    $("#container").children[i].addClass("past");
+  else if (rowHour > currentHour) {
+    $(this).addClass("future");
   }
-  else (state > JSON.parse(moment().hour()))
-  $("#container").children[i].addClass("future");//uncaught type error
-}
+  else {
+    $(this).addClass("past");
+  }
+})
 
   /*
-  Pseudo of y intentions:
-  Within the for loop above that iterates through all the rows,
-  create a variable called state
-  which will be the number of the data hour of the current div iteration.
-  This was attempted in line 88. Not sure if ok or how to test.
-  AND
-  create an if statement such that:
-  if (state === JSON.parse(moment().hour())), CHECK SYNTAX with Matthew
-  change the class to present
-  if (state < JSON.parse(moment().hour())),
-  change the class to past
-  else change the class to future
-  */
+  Commit
+  Change content left in the boxes
+  Tidy any notes you have in here
+  Check html
+  Check css
+  Check Readme
+  Move everything out of starter
+  Switch to a different list because you're about to push
+  Commit
+  Push
 
-/*
-For changing style, check W7D1A1 or W7D1A7.
- */
- 
+
+  */ 

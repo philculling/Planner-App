@@ -110,8 +110,7 @@ Lines 101 and 102 above would successfully change the inner html for the whole r
 But I struggled to change anything else so switched to trying with ids 
 instead of data attributes.
 
- They should all go green. Test them, commit.
- Add something to the css to make the class of grey
+  Add something to the css to make the class of grey
  have background-color grey.
  Even though none of them have a class of grey at the moment.
 

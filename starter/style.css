@@ -8,6 +8,10 @@ body {
   background-color: #77dd77;
 }
 
+.grey {
+  background-color: grey;
+}
+
 textarea {
   background: transparent;
   border: none;

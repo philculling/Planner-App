@@ -23,7 +23,7 @@ Screenshot:
 ![Screenshot](./starter/assets/screenshot.png "Screenshot of Planner-App in progress")
 
 ## Credits
-Some help was provided by AskBCS Assistant.
+Some help was provided by AskBCS Assistant and 1 brief tutor session.
 
 ## License
 Please refer to the LICENSE in the repo.
